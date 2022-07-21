@@ -11,6 +11,8 @@
         <h2>{{ blog.title }}</h2>
         <article>{{ blog.body }}</article>
       </ul>
+
+      aaa
     </div>
   </div>
 </template>
